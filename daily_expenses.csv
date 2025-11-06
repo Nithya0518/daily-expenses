@@ -1,0 +1,16 @@
+expense_id,expense_date,category,description,amount
+EXP-20251020-001,2025-10-20,Utilities,Electricity,73.24
+EXP-20251020-002,2025-10-20,Misc,Bank fees,42.73
+EXP-20251021-003,2025-10-21,Misc,Bank fees,176.05
+EXP-20251021-004,2025-10-21,Misc,Bank fees,25.08
+EXP-20251022-005,2025-10-22,Utilities,Electricity,197.92
+EXP-20251022-006,2025-10-22,Supplies,Cleaning supplies,82.62
+EXP-20251023-007,2025-10-23,Misc,Bank fees,91.85
+EXP-20251023-008,2025-10-23,Misc,Bank fees,118.33
+EXP-20251024-009,2025-10-24,Utilities,Electricity,24.56
+EXP-20251024-010,2025-10-24,Supplies,Cleaning supplies,34.9
+EXP-20251025-011,2025-10-25,Utilities,Electricity,109.55
+EXP-20251025-012,2025-10-25,Supplies,Cleaning supplies,190.54
+EXP-20251025-013,2025-10-25,Misc,Bank fees,118.37
+EXP-20251026-014,2025-10-26,Supplies,Cleaning supplies,139.75
+EXP-20251026-015,2025-10-26,Utilities,Electricity,52.0
